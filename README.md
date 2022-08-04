@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cypress io, Selenium webdriver, Manual testing**
 
-- 📫 How to reach me **nazareno.di.grazia@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

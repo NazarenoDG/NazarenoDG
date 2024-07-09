@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Upex Academy**
 
-- 🌱 I’m currently learning **Cypress io, Selenium webdriver, Manual testing**
+- 🌱 I’m currently learning **Cypress io, Postman, Manual testing**
 
 
 
